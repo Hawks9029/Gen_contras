@@ -1,8 +1,9 @@
 # Gen_contras
-##GENERADOR DE CONTRASEÑAS 
+## GENERADOR DE CONTRASEÑAS 
 
 
-###SCRIPT
+### SCRIPT
+
 apt-get install python
 
 pkg install git -y
